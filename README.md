@@ -3,9 +3,9 @@ A beginner version of the famous Minesweeper Game using basic functions in C++
 ## How To Play
 Just run the code in a C++ environment and the game starts in the output screen of the IDE.
 ## Choose Difficulty <br/>
-	1 -> Easy <br/>
-	2 -> Medium <br/>
-	3 -> Difficult <br/>
+1 -> Easy <br/>
+2 -> Medium <br/>
+3 -> Difficult <br/>
 ## Navigation
 Then the game starts with a 8x8 grid. The number of bombs to be found in the grid depends on the level of difficulty chosen. The navigation through the grid is using the following keys:<br/>
   - A - Left
